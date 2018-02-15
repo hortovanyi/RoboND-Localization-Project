@@ -65,6 +65,8 @@
     <param name="yaw_goal_tolerance" value="0.025"/>
     <param name="xy_goal_tolerance" value="0.5"/>
 
+
+
   </node>
 
 
