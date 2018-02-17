@@ -3,4 +3,4 @@ TrajectoryPlannerROS:
   holonomic_robot: false
   sim_time: 4.0
   meter_scoring: true
-  pdist_scale: 0.6
+  pdist_scale: 0.65

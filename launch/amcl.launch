@@ -62,8 +62,8 @@
     <param name="base_global_planner" type="string" value="navfn/NavfnROS" />
     <param name="base_local_planner" value="base_local_planner/TrajectoryPlannerROS"/>
 
-    <param name="yaw_goal_tolerance" value="0.05"/>
-    <param name="xy_goal_tolerance" value="0.1"/>
+    <param name="yaw_goal_tolerance" value="0.1"/>
+    <param name="xy_goal_tolerance" value="0.2"/>
 
 
 
